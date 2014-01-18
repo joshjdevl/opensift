@@ -1,0 +1,4 @@
+opensift
+========
+
+Docker opensift
